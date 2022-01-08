@@ -1,1 +1,1 @@
-# C-Programming
+CSE102 - C Programming
